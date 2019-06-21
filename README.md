@@ -1,8 +1,3 @@
----
-title: 'High Dimensional Effective Connectivity Estimation'
-disqus: hackmd
----
-
 High Dimensional Effective Connectivity Estimation
 ===
 ![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
